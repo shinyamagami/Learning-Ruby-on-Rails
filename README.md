@@ -2,5 +2,5 @@
 A collection to learn Ruby on Rails.
 
 
-`https://www.railstutorial.org/`
-`https://www.hotrails.dev/`
+https://www.railstutorial.org/  
+https://www.hotrails.dev/
